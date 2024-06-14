@@ -58,4 +58,6 @@ public class AuthController
     public ResponseEntity<String> updatePassword(@RequestBody UpdatePasswordRequestDto dto) {
         return ResponseEntity.ok(authService.updatePassword(dto));
     }
+
+
 }
