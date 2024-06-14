@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConfigServerGit/Microservice_BurgerStore.ConfigServerGit.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ConfigServerGit/Microservice_BurgerStore.ConfigServerGit.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EmailService/Microservice_BurgerStore.EmailService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/EmailService/Microservice_BurgerStore.EmailService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GatewayService/Microservice_BurgerStore.GatewayService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/GatewayService/Microservice_BurgerStore.GatewayService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KullaniciService/Microservice_BurgerStore.KullaniciService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/KullaniciService/Microservice_BurgerStore.KullaniciService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SatisService/Microservice_BurgerStore.SatisService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SatisService/Microservice_BurgerStore.SatisService.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UrunService/Microservice_BurgerStore.UrunService.main.iml" filepath="$PROJECT_DIR$/.idea/modules/UrunService/Microservice_BurgerStore.UrunService.main.iml" />
+    </modules>
+  </component>
+</project>
